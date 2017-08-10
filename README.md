@@ -1,2 +1,2 @@
-# Tutorial-Bot
-This is the bot we're creating in the video series, each branch is an episode number.
+# GloryBot
+Glorybot for Glory. Made in jS & discord.js
